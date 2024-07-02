@@ -1,4 +1,7 @@
 streamlit
-plotly
 pandas
+plotly
+sqlalchemy
 numpy
+statsmodels
+scipy
